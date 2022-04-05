@@ -1,6 +1,6 @@
 Hi, I´m Ankur.
 I´m a Computer Engineer with +16 years of experience in DataPlatform. I´m a Microsoft Certified Azure Database Administrator and Data Engineer currently working as Senior Cloud DBA. 
-I´m mainly involved in database optimization, building various data solutions focusing both on transactional and analytical workloads.
+I´m mainly involved in database optimization and building various data solutions focusing both on transactional and analytical workloads.
 
 🌱 My current learning areas are Azure Artificial Intelligence and Machine Learning.
 
